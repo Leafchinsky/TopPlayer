@@ -23,5 +23,6 @@
         <service android:name="levtopprog.topplayer.MusicService" />
     </application>
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
 </manifest>
